@@ -6,7 +6,7 @@
 
 ## الروابط الموجودة في الصفحة
 
-المتجر: قسم الدورات في الموقع الرسمي https://sanoora.netlify.app/#courses
+المتجر: قسم الدورات في الموقع الرسمي https://sanoora.pages.dev/#courses
 
 منصة سانورا للنطق (الأصوات اللي يغلط فيها العرب، الشرح مجاني): https://sanoora-platform.pages.dev/
 
